@@ -2,9 +2,9 @@
 using namespace std;
 int main()
 {
-  cout<<"HEllo World";
-    cout<<"HEllo World";
-  cout<<"HEllo World";
+  cout<<"Hello World";
+  cout<<"This is Iliyas";
+  
 
   return 0;
 }
