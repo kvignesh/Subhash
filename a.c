@@ -2,6 +2,10 @@
 #include<conio.h>
 int main()
 {
-printf("HELLO WORLD");
-return 0;
+  int i;
+  for(i=0;i<10;i++)
+  {
+    printf("HELLO  WORLD");
+  }
+  return 0;
 }
